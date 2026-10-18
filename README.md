@@ -6,8 +6,8 @@ This project presents an interactive Retail Sales & Profitability Analysis Dashb
 
  Key Features & Tools Used
  
-*Data Cleaning & Structuring: Organized raw retail dataset and formatted it into a structured Excel Table.
-*Calculated Metrics: Applied Excel formulas to calculate core business KPIs:
+Data Cleaning & Structuring: Organized raw retail dataset and formatted it into a structured Excel Table.
+Calculated Metrics: Applied Excel formulas to calculate core business KPIs:
   - Total Revenue
   - Total Cost
   - Total Profit
